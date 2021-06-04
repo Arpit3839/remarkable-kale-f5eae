@@ -19,11 +19,6 @@
                 "style": "link"
             },
             {
-                "label": "FAQ",
-                "url": "/faq",
-                "style": "link"
-            },
-            {
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link"
