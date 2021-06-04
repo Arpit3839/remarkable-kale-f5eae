@@ -45,7 +45,7 @@ sections:
     padding_top: small
     padding_bottom: medium
     background_color: none
-    has_border: true
+    has_border: false
     enable_cards: true
   - type: features_section
     title: Career Opportunities across the World
