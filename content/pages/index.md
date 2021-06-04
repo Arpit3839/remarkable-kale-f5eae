@@ -17,7 +17,7 @@ sections:
     background_image: /images/image.png
     background_image_position: center top
     background_image_size: auto
-    background_image_opacity: 0
+    background_image_opacity: 1
     image: /images/background.svg
   - type: grid_section
     title: Programs for Students
