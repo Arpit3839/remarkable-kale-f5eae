@@ -168,17 +168,12 @@ sections:
     align: center
     background_color: none
   - section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Schedule a Free Consultation
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     actions_position: bottom
     actions_width: fourty
