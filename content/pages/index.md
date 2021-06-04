@@ -57,8 +57,7 @@ sections:
         image_align: center
         title: XYZ
         subtitle: Lorem Ipsum
-      - image: images/logo-3.svg
-        image_alt: Logo 3
+      - image_alt: Logo 3
         image_align: center
     grid_cols: three
     grid_gap_horiz: medium
