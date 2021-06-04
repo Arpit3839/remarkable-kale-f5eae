@@ -5,7 +5,7 @@ sections:
     title: Helping students Transform
     subtitle: Celebrating daily wins with YourGoal.
     actions:
-      - label: Try for free
+      - label: Register Now
         url: /pricing
         style: secondary
     image_alt: Hero section placeholder image
