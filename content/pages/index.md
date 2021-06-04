@@ -175,7 +175,7 @@ sections:
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
     actions: []
-    actions_position: bottom
+    actions_position: right
     actions_width: fourty
     align: left
     padding_top: medium
