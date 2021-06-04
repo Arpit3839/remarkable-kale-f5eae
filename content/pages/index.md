@@ -191,7 +191,7 @@ sections:
         url: /thank-you
         style: primary
     actions_width: fourty
-    align: center
+    align: left
     padding_top: large
     padding_bottom: large
     background_color: secondary
