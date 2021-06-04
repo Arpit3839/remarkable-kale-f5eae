@@ -50,7 +50,7 @@ sections:
   - type: features_section
     title: Career Opportunities across the World
     features:
-      - title: Profile eligibilty
+      - title: Profile Eligibility
         content: >-
           With Your Goal, you can create a dashboard with data about your
           activities and track your progress.
