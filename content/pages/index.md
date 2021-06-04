@@ -167,7 +167,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: true
     align: center
-    background_color: none
+    background_color: primary
   - section_id: lorem-ipsum
     content: >
       ## Schedule Consultation
