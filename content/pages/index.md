@@ -36,6 +36,7 @@ sections:
         image: /images/splendid-yam.jpg
       - image_alt: Logo 3
         image_align: center
+        title: '123'
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
