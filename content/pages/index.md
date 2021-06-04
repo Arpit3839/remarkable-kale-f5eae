@@ -28,6 +28,7 @@ sections:
         image_align: center
         title: ABC
         subtitle: Lorem Ipsum
+        image_has_padding: true
       - image: images/logo-2.svg
         image_alt: Logo 2
         image_align: center
