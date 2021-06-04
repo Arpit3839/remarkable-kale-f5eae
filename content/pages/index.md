@@ -33,6 +33,7 @@ sections:
         image_align: center
         title: XYZ
         subtitle: Lorem Ipsum
+        image: /images/splendid-yam.jpg
       - image_alt: Logo 3
         image_align: center
     grid_cols: three
