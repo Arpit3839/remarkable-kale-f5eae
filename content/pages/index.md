@@ -98,7 +98,7 @@ sections:
         media_width: sixty
     feature_padding_vert: large
     align: center
-    background_color: none
+    background_color: secondary
   - type: features_section
     features:
       - title: >-
