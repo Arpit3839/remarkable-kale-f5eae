@@ -48,7 +48,7 @@ sections:
     has_border: true
     enable_cards: true
   - type: features_section
-    title: Why Choose Your Goal?
+    title: Career Opportunities across the World
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >-
