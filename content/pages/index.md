@@ -11,7 +11,7 @@ sections:
     image_alt: Hero section placeholder image
     media_position: bottom
     align: left
-    padding_top: none
+    padding_top: large
     padding_bottom: small
     background_color: none
     background_image: /images/violet-sun.png
