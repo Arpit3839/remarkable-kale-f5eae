@@ -20,7 +20,7 @@ sections:
     background_image_opacity: 60
     image: /images/background.svg
   - type: grid_section
-    title: Featured On
+    title: Programs for Students
     align: center
     grid_items:
       - image: /images/nervous-apple.jpg
