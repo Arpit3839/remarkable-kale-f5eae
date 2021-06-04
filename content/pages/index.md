@@ -7,7 +7,7 @@ sections:
     actions:
       - label: Register Now
         url: /pricing
-        style: primary
+        style: secondary
     image_alt: Hero section placeholder image
     media_position: bottom
     align: left
