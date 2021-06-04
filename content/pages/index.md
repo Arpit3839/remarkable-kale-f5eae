@@ -38,6 +38,7 @@ sections:
         image_align: center
         title: '123'
         subtitle: Lorem Ipsum
+        image: /images/brandon-guidelines.jpg
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
