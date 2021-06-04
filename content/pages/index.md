@@ -212,21 +212,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: cta_section
-    title: Ready to get started?
-    content: Start achieving your goals today!
-    actions:
-      - label: Try for free
-        url: /thank-you
-        style: primary
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
-    background_image_position: center top
-    background_image_size: cover
-    background_image_opacity: 10
 seo:
   title: Stackbit Startup Theme
   description: The preview of the Startup theme
