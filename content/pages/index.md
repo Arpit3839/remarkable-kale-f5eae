@@ -169,7 +169,7 @@ sections:
     background_color: none
   - section_id: lorem-ipsum
     content: >
-      ## Schedule a Free Consultation
+      ## Schedule Consultation
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
