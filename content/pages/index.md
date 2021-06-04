@@ -197,7 +197,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - type: blog_feed_section
-    title: What's New
+    title: Recent Blogs & Articles
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
