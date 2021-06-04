@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Helpig students Transform
+    title: Helping students Transform
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Register Now
