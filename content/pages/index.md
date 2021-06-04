@@ -37,6 +37,7 @@ sections:
       - image_alt: Logo 3
         image_align: center
         title: '123'
+        subtitle: Lorem Ipsum
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
