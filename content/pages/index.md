@@ -31,7 +31,6 @@ sections:
         image_alt: Logo 1
         image_align: center
         title: Discover your career path
-        subtitle: Lorem Ipsum
         image_has_padding: true
       - image_alt: Logo 2
         image_align: center
