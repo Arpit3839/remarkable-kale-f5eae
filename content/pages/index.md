@@ -36,8 +36,7 @@ sections:
     title: How can we help?
     align: center
     grid_items:
-      - image: /images/nervous-apple.jpg
-        image_alt: Logo 1
+      - image_alt: Logo 1
         image_align: center
         title: Discover your career path
         image_has_padding: true
