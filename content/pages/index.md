@@ -40,7 +40,7 @@ sections:
         image: /images/splendid-yam.jpg
       - image_alt: Logo 3
         image_align: center
-        title: '123'
+        title: Network with the best.
         subtitle: Lorem Ipsum
         image: /images/brandon-guidelines.jpg
     grid_cols: three
