@@ -169,10 +169,8 @@ sections:
     align: center
     background_color: primary
   - section_id: lorem-ipsum
-    content: >
-      ### Join the waitlist&#xA;&#xA;Mentorpad aims to connect students with
-      mentors that could help them with &#xA;their study life and careers. &#xA;
-
+    content: |
+      # Join the waitlist
 
       Join the waitlist to get first access during product launch.
     actions:
