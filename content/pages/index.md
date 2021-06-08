@@ -53,7 +53,7 @@ sections:
       - image_alt: Logo 2
         image_align: center
         title: Learn from Mentors.
-        subtitle: Lorem Ipsum
+        subtitle: Lorem Ipsu
         image: /images/splendid-yam.jpg
       - image_alt: Logo 3
         image_align: center
