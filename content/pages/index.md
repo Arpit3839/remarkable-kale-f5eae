@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Learn and grow with MentorPad
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: >-
+      We transforms mentorship by helping mentors and mentees to connect,
+      collaborate, and learn together.
     actions:
       - label: Register Now
         url: /pricing
