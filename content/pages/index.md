@@ -170,11 +170,11 @@ sections:
     background_color: primary
   - section_id: lorem-ipsum
     content: >
-      ## Schedule Consultation
+      ### Join the waitlist&#xA;&#xA;Mentorpad aims to connect students with
+      mentors that could help them with &#xA;their study life and careers. &#xA;
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Join the waitlist to get first access during product launch.
     actions:
       - label: lorem-ipsum
         url: '#'
