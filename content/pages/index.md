@@ -127,7 +127,7 @@ sections:
   - type: grid_section
     title: MentorPad Features
     grid_items:
-      - title: What to Do
+      - title: Book 1
         title_align: left
         content: >-
           Goals take time, hard work, perseverance and commitment to achieve it.
