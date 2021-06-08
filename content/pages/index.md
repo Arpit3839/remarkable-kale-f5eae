@@ -24,7 +24,7 @@ sections:
     content: |
       Join the waitlist today!
   - type: grid_section
-    title: Programs for Students
+    title: How can we help?
     align: center
     grid_items:
       - image: /images/nervous-apple.jpg
