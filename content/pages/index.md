@@ -51,7 +51,7 @@ sections:
     has_border: false
     enable_cards: true
   - type: features_section
-    title: Career Opportunities across the World
+    title: What we Offer?
     features:
       - title: Profile Eligibility
         content: >-
