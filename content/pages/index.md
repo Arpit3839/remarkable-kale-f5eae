@@ -125,7 +125,7 @@ sections:
     feature_padding_vert: small
     background_color: none
   - type: grid_section
-    title: Make your application standout
+    title: MentorPad Features
     grid_items:
       - title: What to Do
         title_align: left
