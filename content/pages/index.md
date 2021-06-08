@@ -156,10 +156,6 @@ sections:
         image_has_padding: true
       - title: Stay connected with your mentors and peers.
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
         content_align: left
         image: images/icon-4.svg
         image_alt: Section item 4 icon
