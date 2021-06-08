@@ -35,7 +35,7 @@ sections:
         image_has_padding: true
       - image_alt: Logo 2
         image_align: center
-        title: XYZ
+        title: Learn from Mentors.
         subtitle: Lorem Ipsum
         image: /images/splendid-yam.jpg
       - image_alt: Logo 3
