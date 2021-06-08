@@ -180,7 +180,7 @@ sections:
       #### Join the waitlist to get first access&#xA;during product launch.
       &#xA;&#xA;
     actions:
-      - label: lorem-ipsum
+      - label: JOIN NOW
         url: '#'
         style: primary
         has_icon: false
