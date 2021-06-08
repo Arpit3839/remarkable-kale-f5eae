@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Helping students Transform Career
+    title: Learn and grow with MentorPad
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Register Now
