@@ -39,7 +39,7 @@ sections:
       - image_alt: Logo 1
         image_align: center
         title: Discover your career path
-        image_has_padding: true
+        image_has_padding: false
         image: /images/beige-mango.jpg
         image_width: sixty
       - image_alt: Logo 2
