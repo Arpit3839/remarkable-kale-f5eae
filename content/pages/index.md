@@ -41,6 +41,7 @@ sections:
         title: Discover your career path
         image_has_padding: true
         image: /images/beige-mango.jpg
+        image_width: sixty
       - image_alt: Logo 2
         image_align: center
         title: Learn from Mentors.
