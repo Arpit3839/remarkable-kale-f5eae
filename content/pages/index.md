@@ -131,7 +131,7 @@ sections:
   - type: features_section
     features: []
     feature_padding_vert: small
-    background_color: primary
+    background_color: none
   - type: grid_section
     title: MentorPad Features
     grid_items:
