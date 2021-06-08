@@ -54,9 +54,13 @@ sections:
     title: What we Offer?
     features:
       - title: Alumni Connect
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+        content: >+
+          Leverage our alumni community to get into your dream school. Get
+          guidance from  people who have been there
+
+          and done that. You can ask them everything from resume writing to life
+          after graduation.
+
         actions:
           - label: Learn More
             url: /thank-you
