@@ -177,7 +177,7 @@ sections:
       their study life and careers.
 
 
-      #### Join the waitlist to get first access during product launch.
+      #### Join the waitlist to get first access&#xA;during product launch.
       &#xA;&#xA;
     actions:
       - label: lorem-ipsum
