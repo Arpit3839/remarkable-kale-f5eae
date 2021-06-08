@@ -45,7 +45,7 @@ sections:
         image_align: center
         title: Learn from Mentors.
         image: /images/splendid-yam.jpg
-      - title: lorem-ipsum
+      - title: Learn from Mentorrs
         subtitle: lorem-ipsum
         title_align: left
         content: >-
