@@ -30,7 +30,7 @@ sections:
       - image: /images/nervous-apple.jpg
         image_alt: Logo 1
         image_align: center
-        title: ABC
+        title: Discover your career path
         subtitle: Lorem Ipsum
         image_has_padding: true
       - image_alt: Logo 2
