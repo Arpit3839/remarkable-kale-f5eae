@@ -21,6 +21,8 @@ sections:
     background_image_size: auto
     background_image_opacity: 100
     image: /images/fill.png
+    content: |
+      Join the waitlist today!
   - type: grid_section
     title: Programs for Students
     align: center
