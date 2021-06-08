@@ -53,7 +53,7 @@ sections:
   - type: features_section
     title: What we Offer?
     features:
-      - title: Profile Eligibility
+      - title: Alumni Connect
         content: >-
           With Your Goal, you can create a dashboard with data about your
           activities and track your progress.
