@@ -33,7 +33,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: small
-    background_color: secondary
+    background_color: none
     background_image: /images/fierce-potato.png
     background_image_position: center top
     background_image_size: auto
