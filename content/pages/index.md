@@ -158,7 +158,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Your Progress
+      - title: Stay connected with your mentors and peers.
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
