@@ -129,10 +129,9 @@ sections:
     grid_items:
       - title: Book 1
         title_align: left
-        content: >-
-          Goals take time, hard work, perseverance and commitment to achieve it.
-          With **YourGoal** you can list positive task what helps you to create
-          good habbits.
+        content: |+
+          1 sessions with mentor.
+
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
