@@ -83,7 +83,7 @@ sections:
           get personalized guidance from industry leaders and experts.
 
         actions: []
-        image: images/feature-3.png
+        image: /images/square-robin.png
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
