@@ -61,7 +61,7 @@ sections:
           after graduation.
 
         actions: []
-        image: /images/ultra-sycamore.png
+        image: /images/thoughtful-hickory.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
