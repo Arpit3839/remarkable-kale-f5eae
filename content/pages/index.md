@@ -146,7 +146,7 @@ sections:
       - title: Stay connected with your mentors and peers.
         title_align: left
         content_align: left
-        image: images/icon-4.svg
+        image: /images/stay connected.png
         image_alt: Section item 4 icon
         image_position: top
         image_align: left
