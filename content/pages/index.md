@@ -71,13 +71,7 @@ sections:
           who can mentor you through the process. Whether you’re struggling to
           find a good job or simply want to know what career options are
           available to you, Mentorpad will help you find the right guidance.
-        actions:
-          - label: Learn More
-            url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-2.png
         image_alt: Feature 2 placeholder image
         media_position: left
