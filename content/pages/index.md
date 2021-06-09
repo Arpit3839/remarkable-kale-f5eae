@@ -138,7 +138,7 @@ sections:
       - title: Network with like-minded people.
         title_align: left
         content_align: left
-        image: images/icon-3.svg
+        image: /images/network.png
         image_alt: Section item 3 icon
         image_position: top
         image_align: left
