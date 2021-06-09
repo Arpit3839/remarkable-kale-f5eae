@@ -142,6 +142,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+        image: /images/nervous-hickory.png
       - title: Stay connected with your mentors and peers.
         title_align: left
         content_align: left
