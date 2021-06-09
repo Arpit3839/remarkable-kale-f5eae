@@ -61,7 +61,7 @@ sections:
           after graduation.
 
         actions: []
-        image: images/feature-1.png
+        image: /images/feature-1.1.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
