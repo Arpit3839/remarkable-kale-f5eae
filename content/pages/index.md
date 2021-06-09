@@ -132,7 +132,7 @@ sections:
       - title: Attend webinars hosted by experts.
         title_align: left
         content_align: left
-        image: /images/webinar.png
+        image: /images/festive-whale.png
         image_alt: Section item 2 icon
         image_position: top
         image_align: left
