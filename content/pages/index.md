@@ -39,7 +39,7 @@ sections:
         image: /images/splendid-yam.jpg
       - image_alt: Logo 3
         image_align: center
-        title: Network with the best.
+        title: Network with the best
         image: /images/brandon-guidelines.jpg
     grid_cols: three
     grid_gap_horiz: medium
