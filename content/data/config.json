@@ -14,11 +14,6 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Log in",
-                "url": "/thank-you",
-                "style": "secondary"
-            },
-            {
                 "label": "Get Started",
                 "url": "/thank-you",
                 "style": "primary"
