@@ -60,12 +60,7 @@ sections:
           and done that. You can ask them everything from resume writing to life
           after graduation.
 
-        actions:
-          - url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-1.png
         image_alt: Feature 1 placeholder image
         media_position: right
