@@ -12,13 +12,7 @@
         "logo_alt": "Startup logo",
         "has_primary_nav": false,
         "has_secondary_nav": true,
-        "secondary_nav_links": [
-            {
-                "label": "Get Started",
-                "url": "/thank-you",
-                "style": "primary"
-            }
-        ]
+        "secondary_nav_links": []
     },
     "footer": {
         "logo_alt": "Startup logo",
