@@ -124,7 +124,7 @@ sections:
           1 sessions with mentor.
 
         content_align: left
-        image: images/icon-1.svg
+        image: /images/book.svg
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
