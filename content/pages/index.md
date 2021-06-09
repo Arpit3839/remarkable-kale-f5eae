@@ -72,7 +72,7 @@ sections:
           find a good job or simply want to know what career options are
           available to you, Mentorpad will help you find the right guidance.
         actions: []
-        image: images/feature-2.png
+        image: /images/magical-bee.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
