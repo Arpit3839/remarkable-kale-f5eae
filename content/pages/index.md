@@ -72,13 +72,11 @@ sections:
         media_position: right
         media_width: sixty
       - title: Career Counselling
-        content: >+
-          It’s not easy to change careers, and it gets better if you know
-          someone who can mentor you through the process. Whether you’re
-          struggling to find a good job or simply want to know what career
-          options are available to you, Mentorpad will help you find the right
-          guidance.
-
+        content: >
+          It’s not easy to change careers and it gets better if you know someone
+          who can mentor you through the process. Whether you’re struggling to
+          find a good job or simply want to know what career options are
+          available to you, Mentorpad will help you find the right guidance.
         actions:
           - label: Learn More
             url: /thank-you
