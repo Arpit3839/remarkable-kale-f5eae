@@ -5,7 +5,7 @@ sections:
     title: Learn and grow with MentorPad
     subtitle: >-
       We transforms mentorship by helping mentors and mentees to connect,
-      collaborate, and learn together.
+      collaborate and learn together.
     actions:
       - label: Register Now
         url: /pricing
