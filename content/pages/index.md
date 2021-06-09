@@ -158,7 +158,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: true
     align: center
-    background_color: primary
+    background_color: secondary
   - section_id: lorem-ipsum
     content: >
       # Join the waitlist
