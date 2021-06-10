@@ -30,6 +30,7 @@
         "social_links": [],
         "content": "lorem-ipsum",
         "links": [],
-        "type": "footer"
+        "type": "footer",
+        "logo": "/images/polite-comet.png"
     }
 }
