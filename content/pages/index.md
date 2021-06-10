@@ -98,7 +98,7 @@ sections:
   - type: grid_section
     title: MentorPad Features
     grid_items:
-      - title: Book 1
+      - title: 'Book 1 :1 sessions with mentor.'
         title_align: left
         content: |
           Book 1 :1 sessions with mentor.
