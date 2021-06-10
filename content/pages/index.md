@@ -100,8 +100,6 @@ sections:
     grid_items:
       - title: 'Book 1 :1 sessions with mentor.'
         title_align: left
-        content: |
-          Book 1 :1 sessions with mentor.
         content_align: left
         image: /images/book.png
         image_alt: Section item 1 icon
