@@ -21,7 +21,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 100
     content: |
-      **Be spoilt for choice with our pool of 1500+ mentors worldwide. **
+      **Be spoilt for choice with our pool of 1500+ mentors worldwide.**
 
       Join the waitlist to get access to early bird offers on Mentorpad!
   - type: grid_section
