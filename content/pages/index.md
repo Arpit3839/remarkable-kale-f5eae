@@ -34,7 +34,7 @@ sections:
         image_width: twenty-five
       - image_alt: Logo 2
         image_align: center
-        title: Learn from Mentors
+        title: Get guidance from alumni of schools around the world
         image: /images/splendid-yam.jpg
       - image_alt: Logo 3
         image_align: center
