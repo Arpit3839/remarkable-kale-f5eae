@@ -38,7 +38,7 @@ sections:
         image: /images/splendid-yam.jpg
       - image_alt: Logo 3
         image_align: center
-        title: Network with the best
+        title: Prep for interviews and more with tips from our industry experts
         image: /images/brandon-guidelines.jpg
     grid_cols: three
     grid_gap_horiz: medium
