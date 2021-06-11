@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Learn and grow with MentorPad
     subtitle: >-
-      We transforms mentorship by helping mentors and mentees to connect,
+      We transforms mentorship by helping mentors and mentees connect,
       collaborate and learn together.
     actions:
       - label: Register Now
