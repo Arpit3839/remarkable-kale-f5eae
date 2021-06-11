@@ -51,7 +51,7 @@ sections:
   - type: features_section
     title: What we Offer?
     features:
-      - title: Alumni Connect
+      - title: Alumni 1-on-1
         content: >+
           Leverage our alumni community to get into your dream school. Get
           guidance from  people who have been there
