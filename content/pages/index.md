@@ -28,7 +28,7 @@ sections:
     grid_items:
       - image_alt: Logo 1
         image_align: center
-        title: Discover your career path with our c
+        title: Discover your career path with our career counselling services.
         image_has_padding: false
         image: /images/beige-mango.jpg
         image_width: twenty-five
