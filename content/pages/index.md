@@ -20,8 +20,11 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 100
-    content: |
-      Join the waitlist today!
+    content: |+
+      **Be spoilt for choice with our pool of 1500+ mentors worldwide!**
+
+      Join the waitlist to get on the early bird offers of Mentorpad!
+
   - type: grid_section
     title: How can we help?
     align: center
