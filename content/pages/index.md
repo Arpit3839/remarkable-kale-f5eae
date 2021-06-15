@@ -56,10 +56,8 @@ sections:
       - title: Alumni 1-on-1
         content: >+
           Leverage our alumni community to get into your dream school. Get
-          guidance from  people who have been there
-
-          and done that. You can ask them everything from resume writing to life
-          after graduation.
+          guidance from people who have been there and done that. You can ask
+          them everything from resume writing to life after graduation.
 
         actions: []
         image: /images/thoughtful-hickory.png
