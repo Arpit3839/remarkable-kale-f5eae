@@ -76,11 +76,10 @@ sections:
         media_position: left
         media_width: sixty
       - title: Industry Experts Guidance
-        content: >+
+        content: >
           Learning from the best is one thing, but meeting them one-on-one is an
           entirely different ball game. With Mentorpad, you can get learn and
           get personalized guidance from industry leaders and experts.
-
         actions: []
         image: /images/square-robin.png
         image_alt: Feature 3 placeholder image
