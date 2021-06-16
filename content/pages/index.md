@@ -10,6 +10,15 @@ sections:
       - label: Register Now
         url: /pricing
         style: primary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     image_alt: Hero section placeholder image
     media_position: bottom
     align: left
