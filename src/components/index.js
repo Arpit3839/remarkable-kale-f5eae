@@ -20,6 +20,7 @@ import NavOverlay from './NavOverlay';
 import Icon from './Icon';
 import SectionActions from './SectionActions';
 import SectionBackground from './SectionBackground';
+// import '../fonts/Montserrat/Montserrat-Regular.ttf';
 
 export {
     Action,

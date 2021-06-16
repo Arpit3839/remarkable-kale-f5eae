@@ -18,7 +18,7 @@ sections:
     background_color: primary
     background_image: /images/festive-pluto.jpg
     background_image_position: center top
-    background_image_size: auto
+    background_image_size: cover
     background_image_opacity: 100
     content: |
       **Be spoilt for choice with our pool of 1500+ mentors worldwide.**
@@ -30,7 +30,7 @@ sections:
     grid_items:
       - image_alt: Logo 1
         image_align: center
-        title: Discover your career path with our career counselling services.
+        title: Discover your career path with our career counselling services
         image_has_padding: false
         image: /images/beige-mango.jpg
         image_width: twenty-five
@@ -56,10 +56,8 @@ sections:
       - title: Alumni 1-on-1
         content: >+
           Leverage our alumni community to get into your dream school. Get
-          guidance from  people who have been there
-
-          and done that. You can ask them everything from resume writing to life
-          after graduation.
+          guidance from people who have been there and done that. You can ask
+          them everything from resume writing to life after graduation.
 
         actions: []
         image: /images/thoughtful-hickory.png
@@ -78,11 +76,10 @@ sections:
         media_position: left
         media_width: sixty
       - title: Industry Experts Guidance
-        content: >+
+        content: >
           Learning from the best is one thing, but meeting them one-on-one is an
           entirely different ball game. With Mentorpad, you can get learn and
           get personalized guidance from industry leaders and experts.
-
         actions: []
         image: /images/square-robin.png
         image_alt: Feature 3 placeholder image
