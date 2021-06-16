@@ -40,3 +40,16 @@
 
 // Color variations
 @import "variations/modes";
+
+// New font added for the website
+
+@font-face {
+    font-family: "Montserrat";
+    src: local("Montserrat"),
+     url("../fonts/Montserrat/Montserrat-Regular.ttf") format("truetype");
+    font-weight: bold;
+}
+
+.hero__subtitle{
+    font-family: 'Montserrat';
+}

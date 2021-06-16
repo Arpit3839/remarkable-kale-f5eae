@@ -18,7 +18,7 @@ sections:
     background_color: primary
     background_image: /images/festive-pluto.jpg
     background_image_position: center top
-    background_image_size: auto
+    background_image_size: cover
     background_image_opacity: 100
     content: |
       **Be spoilt for choice with our pool of 1500+ mentors worldwide.**
