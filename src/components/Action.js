@@ -31,7 +31,7 @@ export default class Action extends React.Component {
         }
 
         return (
-            <input type=”email” className=”form-control” name=”email” />
+            <input type=”email” className=”form-control” />
             <Link href={withPrefix(url)} {...attrs} className={classes}>
                 {(hasIcon && icon) ? (
                     <React.Fragment>
