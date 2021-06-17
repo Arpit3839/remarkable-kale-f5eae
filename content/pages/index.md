@@ -25,7 +25,7 @@ sections:
 
       Join the waitlist to get access to early bird offers on Mentorpad!
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Learn and grow with MentorPad
     subtitle: lorem-ipsum
     title_align: left
     content: >-
