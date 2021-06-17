@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Learn and grow with MentorPad
 sections:
   - type: hero_section
     title: Learn and grow with MentorPad
