@@ -207,7 +207,7 @@ sections:
     submit_label: JOIN THE WAITLIST
     align_vert: top
     padding_top: medium
-    padding_bottom: large
+    padding_bottom: medium
     has_border: false
     background_color: none
     background_image_opacity: 100
