@@ -208,6 +208,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+    background_image: /images/festive-pluto.jpg
 seo:
   title: Stackbit Startup Theme
   description: The preview of the Startup theme
