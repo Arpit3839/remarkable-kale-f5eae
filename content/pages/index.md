@@ -209,7 +209,6 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     background_image: /images/festive-pluto.jpg
-    title: Learn and grow with MentorPad
 seo:
   title: Stackbit Startup Theme
   description: The preview of the Startup theme
