@@ -169,8 +169,13 @@ sections:
     type: cta_section
   - section_id: lorem-ipsum
     title_align: left
-    content: |
+    content: >
+      We transforms mentorship by helping mentors and mentees connect,
+      collaborate and learn together.
+
+
       Lorem ipsum
+
 
       dolor sit amet
     content_align: left
