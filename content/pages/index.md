@@ -169,17 +169,8 @@ sections:
     type: cta_section
   - section_id: lorem-ipsum
     title_align: left
-    content: >
-      ## Learn and grow with MentorPad&#xA;
-
-
-      We transforms mentorship by helping mentors and mentees connect,
-      collaborate and learn together.
-
-
-
+    content: |
       Lorem ipsum
-
 
       dolor sit amet
     content_align: left
