@@ -206,9 +206,6 @@ sections:
     type: form_section
     background_image: /images/festive-pluto.jpg
     title: Learn and grow with MentorPad
-    subtitle: >-
-      We transforms mentorship by helping mentors and mentees connect,
-      collaborate and learn together.
 seo:
   title: Stackbit Startup Theme
   description: The preview of the Startup theme
