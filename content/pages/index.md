@@ -201,7 +201,7 @@ sections:
     background_color: none
     background_image_opacity: 100
     background_image_size: cover
-    background_image_position: center center
+    background_image_position: right center
     background_image_repeat: no-repeat
     type: form_section
     background_image: /images/festive-pluto.jpg
