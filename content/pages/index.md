@@ -174,10 +174,10 @@ sections:
       collaborate and learn together.
 
 
-      Lorem ipsum
+      **Be spoilt for choice with our pool of 1500+ mentors worldwide.**
 
 
-      dolor sit amet
+      Join the waitlist to get access to early bird offers on Mentorpad!
     content_align: left
     form_position: bottom
     form_width: fifty
