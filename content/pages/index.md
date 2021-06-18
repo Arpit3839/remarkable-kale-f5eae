@@ -190,7 +190,7 @@ sections:
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields:
-      - input_type: text
+      - input_type: email
         name: lorem-ipsum
         label: Email Id
         default_value: Enter your email Id
