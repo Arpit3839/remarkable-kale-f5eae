@@ -206,7 +206,7 @@ sections:
         type: form_field
     submit_label: JOIN THE WAITLIST
     align_vert: top
-    padding_top: large
+    padding_top: small
     padding_bottom: large
     has_border: false
     background_color: none
