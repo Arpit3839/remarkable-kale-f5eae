@@ -195,7 +195,7 @@ sections:
         label: Email Id
         default_value: Enter your email Id
         options: []
-        is_required: true
+        is_required: false
         type: form_field
     submit_label: JOIN THE WAITLIST
     align_vert: top
