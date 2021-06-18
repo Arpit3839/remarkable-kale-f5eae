@@ -197,7 +197,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-    submit_label: lorem-ipsum
+    submit_label: JOIN THE WAITLIST
     align_vert: top
     padding_top: large
     padding_bottom: large
