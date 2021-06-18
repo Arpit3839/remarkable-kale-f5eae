@@ -173,13 +173,15 @@ sections:
       ## Learn and grow with MentorPad&#xA;
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      We transforms mentorship by helping mentors and mentees connect,
+      collaborate and learn together.
 
 
-      *   Lorem ipsum
 
-      *   dolor sit amet
+      Lorem ipsum
+
+
+      dolor sit amet
     content_align: left
     form_position: bottom
     form_width: fifty
