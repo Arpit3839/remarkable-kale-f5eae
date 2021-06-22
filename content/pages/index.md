@@ -24,6 +24,55 @@ sections:
       **Be spoilt for choice with our pool of 1500+ mentors worldwide.**
 
       Join the waitlist to get access to early bird offers on Mentorpad!
+  - section_id: lorem-ipsum
+    title_align: left
+    content: >
+      # **Learn and grow with MentorPad**
+
+
+
+      We transforms mentorship by helping mentors and mentees connect,
+      collaborate and learn together.
+
+
+      **Be spoilt for choice with our pool of 1500+ mentors worldwide.**
+
+
+      Join the waitlist to get access to early bird offers on Mentorpad!
+    content_align: left
+    form_position: bottom
+    form_width: fourty
+    form_layout: inline
+    enable_card: true
+    form_id: lorem-ipsum
+    form_action: lorem-ipsum
+    form_fields:
+      - input_type: email
+        name: lorem-ipsum
+        label: Email Id
+        default_value: Enter your email Id
+        options: []
+        is_required: false
+        type: form_field
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
+    submit_label: JOIN THE WAITLIST
+    align_vert: top
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 100
+    background_image_size: auto
+    background_image_position: right center
+    background_image_repeat: no-repeat
+    type: form_section
+    background_image: /images/festive-pluto.jpg
   - type: grid_section
     title: How can we help?
     align: center
@@ -167,55 +216,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-  - section_id: lorem-ipsum
-    title_align: left
-    content: >
-      # **Learn and grow with MentorPad**
-
-
-
-      We transforms mentorship by helping mentors and mentees connect,
-      collaborate and learn together.
-
-
-      **Be spoilt for choice with our pool of 1500+ mentors worldwide.**
-
-
-      Join the waitlist to get access to early bird offers on Mentorpad!
-    content_align: left
-    form_position: bottom
-    form_width: fourty
-    form_layout: inline
-    enable_card: true
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
-    form_fields:
-      - input_type: email
-        name: lorem-ipsum
-        label: Email Id
-        default_value: Enter your email Id
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: text
-        name: lorem-ipsum
-        label: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
-    submit_label: JOIN THE WAITLIST
-    align_vert: top
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 100
-    background_image_size: auto
-    background_image_position: right center
-    background_image_repeat: no-repeat
-    type: form_section
-    background_image: /images/festive-pluto.jpg
 seo:
   title: Stackbit Startup Theme
   description: The preview of the Startup theme
