@@ -22,7 +22,7 @@ sections:
     form_layout: inline
     enable_card: false
     form_id: jointhewaitlist
-    form_action: https://azent.com
+    form_action: 'https://azent.com'
     form_fields:
       - input_type: email
         name: email
@@ -35,7 +35,8 @@ sections:
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: JOIN THE WAITLIST
