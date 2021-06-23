@@ -53,7 +53,6 @@ export default class FormField extends React.Component {
                     <React.Fragment>
                         {label && <label htmlFor={name} id={labelId}>{label}</label>}
                         <input type={inputType} name={name} id={name} {...(defaultValue ? { placeholder: defaultValue } : null)} {...attr} />
-                        <input type="hidden" name="form-name" value={name} />
                         <span className="animate-border" aria-hidden="true" />
                     </React.Fragment>
                 );
