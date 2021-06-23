@@ -240,3 +240,16 @@ h1#learn-and-grow-with-mentorpad strong{
 .section__copy.my-2.cell-12 p:nth-of-type(3){
 	font-weight: 600;
 }
+.form-content.flex.flex-column.flex-xs-row{
+	width: 45%;
+}
+input#email{
+	border-radius: 30px;
+    background: #434141;
+}
+input#email:focus{
+	color: white;
+}
+.form-submit.mx-auto.mr-xs-0.ml-xs-1{
+	margin-left: -4.44444rem;
+}

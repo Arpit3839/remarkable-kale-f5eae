@@ -1,30 +1,7 @@
 ---
 title: Learn and grow with MentorPad
 sections:
-  - type: hero_section
-    title: Learn and grow with MentorPad
-    subtitle: >-
-      We transforms mentorship by helping mentors and mentees connect,
-      collaborate and learn together.
-    actions:
-      - label: Register Now
-        url: /pricing
-        style: primary
-    image_alt: Hero section placeholder image
-    media_position: bottom
-    align: left
-    padding_top: large
-    padding_bottom: small
-    background_color: primary
-    background_image: /images/festive-pluto.jpg
-    background_image_position: center top
-    background_image_size: cover
-    background_image_opacity: 100
-    content: |
-      **Be spoilt for choice with our pool of 1500+ mentors worldwide.**
-
-      Join the waitlist to get access to early bird offers on Mentorpad!
-  - section_id: lorem-ipsum
+  - section_id: first-fold-jointhewaitlist
     title_align: left
     content: >
       # **Learn and grow with MentorPad**
@@ -44,22 +21,15 @@ sections:
     form_width: fourty
     form_layout: inline
     enable_card: false
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
+    form_id: jointhewaitlist
+    form_action: https://azent.com
     form_fields:
       - input_type: email
-        name: lorem-ipsum
+        name: email
         label: Email Id
-        default_value: Enter your email Id
+        default_value: Email Address
         options: []
-        is_required: false
-        type: form_field
-      - input_type: text
-        name: lorem-ipsum
-        label: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: JOIN THE WAITLIST
     align_vert: top
