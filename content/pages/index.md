@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Learn and grow with MentorPad
 sections:
   - type: hero_section
     title: Learn and grow with MentorPad
@@ -24,6 +24,55 @@ sections:
       **Be spoilt for choice with our pool of 1500+ mentors worldwide.**
 
       Join the waitlist to get access to early bird offers on Mentorpad!
+  - section_id: lorem-ipsum
+    title_align: left
+    content: >
+      # **Learn and grow with MentorPad**
+
+
+
+      We transforms mentorship by helping mentors and mentees connect,
+      collaborate and learn together.
+
+
+      **Be spoilt for choice with our pool of 1500+ mentors worldwide.**
+
+
+      Join the waitlist to get access to early bird offers on Mentorpad!
+    content_align: left
+    form_position: bottom
+    form_width: fourty
+    form_layout: inline
+    enable_card: false
+    form_id: lorem-ipsum
+    form_action: lorem-ipsum
+    form_fields:
+      - input_type: email
+        name: lorem-ipsum
+        label: Email Id
+        default_value: Enter your email Id
+        options: []
+        is_required: false
+        type: form_field
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
+    submit_label: JOIN THE WAITLIST
+    align_vert: top
+    padding_top: large
+    padding_bottom: small
+    has_border: false
+    background_color: primary
+    background_image_opacity: 100
+    background_image_size: cover
+    background_image_position: center top
+    background_image_repeat: no-repeat
+    type: form_section
+    background_image: /images/festive-pluto.jpg
   - type: grid_section
     title: How can we help?
     align: center
