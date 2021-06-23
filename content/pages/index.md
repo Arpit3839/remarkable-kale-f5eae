@@ -61,7 +61,7 @@ sections:
         image_has_padding: false
         image: /images/beige-mango.jpg
         image_width: twenty-five
-        content_align: center
+        content_align: left
       - image_alt: Logo 2
         image_align: center
         title: Get guidance from alumni of schools from around the world
