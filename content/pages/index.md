@@ -31,12 +31,12 @@ sections:
         options: []
         is_required: true
         type: form_field
-      - input_type: text
-        name: lorem-ipsu
-        label: lorem-ipsum
-        default_value: lorem-ipsum
+      - input_type: hidden
+        name: form-name
+        label: form-name
+        default_value: jointhewaitlist
         options:
-          - lorem-ipsum
+          - jointhewaitlist
         is_required: false
         type: form_field
     submit_label: JOIN THE WAITLIST
