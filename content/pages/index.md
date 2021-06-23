@@ -42,7 +42,7 @@ sections:
     content_align: left
     form_position: bottom
     form_width: fourty
-    form_layout: inline
+    form_layout: stacked
     enable_card: true
     form_id: lorem-ipsum
     form_action: lorem-ipsum
