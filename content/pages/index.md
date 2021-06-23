@@ -43,7 +43,7 @@ sections:
     form_position: bottom
     form_width: fourty
     form_layout: inline
-    enable_card: true
+    enable_card: false
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields:
