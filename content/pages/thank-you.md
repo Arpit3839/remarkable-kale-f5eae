@@ -13,7 +13,6 @@ sections:
     background_color: none
     image: /images/mentor96x96.png
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
     image_alt: lorem-ipsum
