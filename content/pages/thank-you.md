@@ -11,7 +11,7 @@ sections:
     align: center
     padding_bottom: large
     background_color: none
-    image: /images/fav-icon-96x96.png
+    image: /images/mentor96x96.png
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
