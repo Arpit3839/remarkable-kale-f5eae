@@ -15,8 +15,6 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
-    content: |
-      *
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
