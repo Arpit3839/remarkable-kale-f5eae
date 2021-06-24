@@ -7,7 +7,7 @@ sections:
       Thank you for testing this template. We hope you like it. Have a great
       day!
     actions:
-      - label: Back to homepage
+      - label: Take a Survey
         url: /
         style: primary
     align: center
