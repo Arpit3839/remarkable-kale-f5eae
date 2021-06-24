@@ -3,17 +3,13 @@ title: Learn and grow with MentorPad
 sections:
   - section_id: first-fold-jointhewaitlist
     title_align: left
-    content: >
+    content: |
       # **Learn and grow with MentorPad**
 
-
-
-      We transforms mentorship by helping mentors and mentees connect,
+      We transforms mentorship by helping mentors and mentees connect, 
       collaborate and learn together.
 
-
       **Be spoilt for choice with our pool of 1500+ mentors worldwide.**
-
 
       Join the waitlist to get access to early bird offers on Mentorpad!
     content_align: left
