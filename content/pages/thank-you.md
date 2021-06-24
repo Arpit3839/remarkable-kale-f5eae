@@ -3,9 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: Thank You!
-    subtitle: >-
-      Thank you for testing this template. We hope you like it. Have a great
-      day!
+    subtitle: Your Email Address is successfully Registered
     actions:
       - label: Take a Survey
         url: /
