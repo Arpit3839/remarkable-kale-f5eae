@@ -2,15 +2,20 @@
 title: Thank You
 sections:
   - type: hero_section
-    title: Thank You!
-    subtitle: Your Email Address is successfully Registered
-    actions:
-      - label: Take a Survey
-        url: /
-        style: primary
+    actions: []
     align: center
     padding_bottom: large
     background_color: none
-    image: /images/mentor96x96.png
+    video_embed_html: >-
+      <html> <head> <meta name="viewport" content="width=device-width,
+      initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> <title>Mentorpad
+      Survey</title> <style type="text/css"> html{ margin: 0; height: 100%;
+      overflow: hidden; } iframe { position: absolute; left:0; right:0;
+      bottom:0; top:0; border: 0; } </style> </head> <body> <iframe
+      id="typeform-full" width="100%" height="100%" frameborder="0"
+      allow="camera; microphone; autoplay; encrypted-media;"
+      src="https://form.typeform.com/to/po5dnaXE?typeform-medium=embed-snippet"></iframe>
+      <script type="text/javascript"
+      src="https://embed.typeform.com/embed.js"></script> </body> </html>
 layout: advanced
 ---
