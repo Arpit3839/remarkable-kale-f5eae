@@ -2,10 +2,7 @@
 title: Thank You
 sections:
   - type: hero_section
-    actions:
-      - label: Take a Survey
-        url: /
-        style: primary
+    actions: []
     align: center
     padding_bottom: large
     background_color: none
