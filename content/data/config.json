@@ -11,7 +11,7 @@
         "logo": "/images/mentorship logo.png",
         "logo_alt": "Startup logo",
         "has_primary_nav": false,
-        "has_secondary_nav": true,
+        "has_secondary_nav": false,
         "secondary_nav_links": []
     },
     "domain": "https://remarkable-kale-f5eae.netlify.app",

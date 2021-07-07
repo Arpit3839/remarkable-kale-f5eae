@@ -101,8 +101,8 @@ export default class FormSection extends React.Component {
                                 name={formId}
                                 id={formId}
                                 {...(formAction ? ({ action: formAction }) : null)}
-                                method="POST"
-                                data-netlify="true"
+                                method="GET"
+                                netlify="true"
                                 data-netlify-honeypot={formHoneypotName}
                                 className={classNames({
                                     'form-inline': formLayout === 'inline',
