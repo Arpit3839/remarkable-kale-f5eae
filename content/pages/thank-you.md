@@ -2,7 +2,6 @@
 title: Thank You
 sections:
   - type: hero_section
-    subtitle: Your Email Address is successfully Registered
     actions:
       - label: Take a Survey
         url: /
