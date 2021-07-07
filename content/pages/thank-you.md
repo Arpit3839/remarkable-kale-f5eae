@@ -6,7 +6,7 @@ sections:
     align: center
     padding_bottom: large
     background_color: none
-    video_embed_html: >+
+    video_embed_html: >-
       <html> <head> <meta name="viewport" content="width=device-width,
       initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> <title>Mentorpad
       Survey</title> <style type="text/css"> html{ margin: 0; height: 100%;
@@ -17,6 +17,5 @@ sections:
       src="https://form.typeform.com/to/po5dnaXE?typeform-medium=embed-snippet"></iframe>
       <script type="text/javascript"
       src="https://embed.typeform.com/embed.js"></script> </body> </html>
-
 layout: advanced
 ---
