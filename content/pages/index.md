@@ -18,7 +18,7 @@ sections:
     form_layout: inline
     enable_card: false
     form_id: jointhewaitlist
-    form_action: '/thank-you/'
+    form_action: /thank-you/
     form_fields:
       - input_type: email
         name: email
@@ -160,17 +160,17 @@ sections:
     background_color: primary
   - section_id: lorem-ipsum
     content: >
-      # Join the waitlist
+      # Ready to accelerate your career?
 
 
       Mentorpad aims to connect students with mentors that could help them with
       their study life and careers.
 
 
-      #### Join the waitlist to get first access during product launch.
-      &#xA;&#xA;
+      #### Join the waitlist to get first access and early-bird discounts during
+      the product launch. &#xA;&#xA;
     actions:
-      - label: JOIN NOW
+      - label: Sign Me Up!
         url: '#'
         style: primary
         has_icon: false
