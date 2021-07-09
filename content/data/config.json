@@ -28,7 +28,6 @@
         "has_social": true,
         "social_links": [],
         "links": [],
-        "type": "footer",
-        "logo": "/images/polite-comet.png"
+        "type": "footer"
     }
 }
