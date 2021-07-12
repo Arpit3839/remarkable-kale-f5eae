@@ -170,7 +170,7 @@ sections:
       #### Join the waitlist to get first access and early-bird discounts during
       the product launch. &#xA;&#xA;
     actions:
-      - label: Sign Me Up!
+      - label: SIGN ME UP!
         url: '#'
         style: primary
         has_icon: false
