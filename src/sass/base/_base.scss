@@ -250,6 +250,18 @@ input#email{
 input#email:focus{
 	color: white;
 }
+@media (max-width: 480px){
+	.form-submit.mx-auto.mr-xs-0.ml-xs-1{
+		margin-left: 0px !important;
+		width: 100%;
+	}
+	.form-content.flex.flex-column.flex-xs-row{
+		width: 80% !important;
+	}
+	.mode-light .bg-primary .btn--primary{
+		width: 100% !important;
+	}
+}
 .form-submit.mx-auto.mr-xs-0.ml-xs-1{
 	margin-left: -4.44444rem;
 }
