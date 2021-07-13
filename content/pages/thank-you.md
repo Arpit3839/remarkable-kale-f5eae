@@ -12,6 +12,7 @@ sections:
       src="https://form.typeform.com/to/po5dnaXE?typeform-medium=embed-snippet"
       style="height: 100vh;"></iframe> <script type="text/javascript"
       src="https://embed.typeform.com/embed.js"></script> </body> </html>
+    section_id: thankyou-form
 layout: advanced
 seo:
   title: Thank you for joining the waitlist
