@@ -15,7 +15,7 @@ sections:
 layout: advanced
 seo:
   title: Thank you for joining the waitlist
-  description: ''
+  description: Thank you for joining the waitlist
   robots: []
   extra: []
   type: stackbit_page_meta
