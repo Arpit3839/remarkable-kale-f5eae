@@ -26,5 +26,9 @@ seo:
       value: /_static/app-assets/images/feature-1.png
       keyName: property
       relativeUrl: true
+    - name: 'twitter:title'
+      value: Thank you for joining the waitlist
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 ---
