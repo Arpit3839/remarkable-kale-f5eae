@@ -6,8 +6,7 @@ sections:
     content: |
       # **Learn and grow with MentorPad**
 
-      We transforms mentorship by helping mentors and mentees connect, 
-      collaborate and learn together.
+      Connect 1:1 with top university alumni and industry experts.
 
       **Be spoilt for choice with our pool of 1500+ mentors worldwide.**
 
