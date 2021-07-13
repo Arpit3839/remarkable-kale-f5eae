@@ -215,7 +215,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Startup theme
     - name: 'twitter:image'
-      value: images/feature-1.png
+      value: /_static/app-assets/images/wonderful-tiger.png
       relativeUrl: true
 layout: advanced
 ---
