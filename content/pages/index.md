@@ -192,7 +192,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
 seo:
-  title: Stackbit Startup Theme
+  title: Connect with over 1500+ mentors from around the world | Mentorpad
   description: The preview of the Startup theme
   extra:
     - name: 'og:type'
