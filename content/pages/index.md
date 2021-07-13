@@ -199,7 +199,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Startup Theme
+      value: Connect with over 1500+ mentors from around the world | Mentorpad
       keyName: property
     - name: 'og:description'
       value: The preview of the Startup theme
