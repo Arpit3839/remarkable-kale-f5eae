@@ -261,6 +261,9 @@ input#email:focus{
 	.mode-light .bg-primary .btn--primary{
 		width: 100% !important;
 	}
+	.section__copy.my-2.cell-12{
+		max-width: 90% !important;
+	}
 }
 .form-submit.mx-auto.mr-xs-0.ml-xs-1{
 	margin-left: -4.44444rem;
@@ -313,4 +316,19 @@ section.section.hero.pt-6.pb-6.pb-md-7{
 .hero__media.my-2.cell-12{
 	margin-top: 0px;
 	margin-bottom: 0px;
+}
+::placeholder {
+	color: white;
+	opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+	color: white;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+	color: white;
+}
+input[type=email]{
+	color: #ffffff !important;
 }
