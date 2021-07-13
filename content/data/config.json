@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Startup Theme",
+    "title": "Connect with over 1500+ mentors from around the world | Mentorpad",
     "path_prefix": "/",
     "layout_type": "full-width",
     "style": "classic",
@@ -29,5 +29,6 @@
         "social_links": [],
         "links": [],
         "type": "footer"
-    }
+    },
+    "favicon": "/images/magical-oregano.png"
 }
