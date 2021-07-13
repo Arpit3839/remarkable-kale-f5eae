@@ -14,7 +14,7 @@ sections:
       src="https://embed.typeform.com/embed.js"></script> </body> </html>
 layout: advanced
 seo:
-  title: ''
+  title: Thank you for joining the waitlist
   description: ''
   robots: []
   extra: []
