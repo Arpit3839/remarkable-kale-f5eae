@@ -19,7 +19,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /images/feature-1.png
+      value: /_static/app-assets/images/feature-1.png
       keyName: property
       relativeUrl: true
   type: stackbit_page_meta
