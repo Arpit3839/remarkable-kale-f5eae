@@ -17,6 +17,10 @@ seo:
   title: Thank you for joining the waitlist
   description: Thank you for joining the waitlist
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/feature-1.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 ---
