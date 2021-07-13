@@ -30,5 +30,9 @@ seo:
       value: Thank you for joining the waitlist
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Thank you for joining the waitlist
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 ---
