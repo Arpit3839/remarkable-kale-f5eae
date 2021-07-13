@@ -250,6 +250,18 @@ input#email{
 input#email:focus{
 	color: white;
 }
+@media (max-width: 480px){
+	.form-submit.mx-auto.mr-xs-0.ml-xs-1{
+		margin-left: 0px !important;
+		width: 100%;
+	}
+	.form-content.flex.flex-column.flex-xs-row{
+		width: 100% !important;
+	}
+	.mode-light .bg-primary .btn--primary{
+		width: 100% !important;
+	}
+}
 .form-submit.mx-auto.mr-xs-0.ml-xs-1{
 	margin-left: -4.44444rem;
 }
@@ -275,4 +287,17 @@ section#first-fold-jointhewaitlist{
 	background-color: #7076F0 !important;
 	color: #fff !important;
 	padding: 0.85em 1.875em;
+}
+.section__copy.my-2.cell-12 p:first-of-type{
+	line-height: 1.4;
+}
+.style-classic.palette-blue .btn--primary{
+	width: 100%;
+	padding: 0.85em 1.875em;
+}
+section.section.hero.bg-none.pt-6.pb-6.pb-md-7{
+	padding-top: 0px;
+}
+section.section.hero.pt-6.pb-6.pb-md-7{
+	background: #F1ECE2;
 }

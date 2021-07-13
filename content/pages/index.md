@@ -170,7 +170,7 @@ sections:
       #### Join the waitlist to get first access and early-bird discounts during
       the product launch. &#xA;&#xA;
     actions:
-      - label: Sign Me Up!
+      - label: SIGN ME UP!
         url: '#'
         style: primary
         has_icon: false
@@ -192,20 +192,20 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
 seo:
-  title: Stackbit Startup Theme
+  title: Connect with over 1500+ mentors from around the world | Mentorpad
   description: The preview of the Startup theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Startup Theme
+      value: Connect with over 1500+ mentors from around the world | Mentorpad
       keyName: property
     - name: 'og:description'
       value: The preview of the Startup theme
       keyName: property
     - name: 'og:image'
-      value: images/feature-1.png
+      value: /images/feature-1.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -215,7 +215,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Startup theme
     - name: 'twitter:image'
-      value: images/feature-1.png
+      value: /images/feature-1.png
       relativeUrl: true
 layout: advanced
 ---
